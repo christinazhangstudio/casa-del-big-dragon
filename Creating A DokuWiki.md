@@ -9,7 +9,7 @@
 7. print.php (phpinfo()) to debug nginx+php integration
 8. browse /install.php (can use MAMP to get done first)
 9. fill out username, acl, etc., delete when done
-10. enjoy
+10. enjoy -> http://localhost:8080/dokuwiki/doku.php?id=start
 
 
 ```conf
