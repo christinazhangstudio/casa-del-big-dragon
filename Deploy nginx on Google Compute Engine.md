@@ -106,7 +106,7 @@ nginx: [emerg] bind() to [::]:80 failed (98: Address already in use)
 
 use netstat via ssh (don't have to worry about priv issues)
 
-dokuwiki may complain about inaccessible /opt/www/data/*. can give ownershup to webserver (and not chmod 777 ha):
+dokuwiki may complain about inaccessible /opt/www/data/*. can give ownership to webserver (and not chmod 777 ha):
 
 ```
 sudo chown -R www-data:www-data /opt/www
