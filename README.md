@@ -1,6 +1,9 @@
 evolving dokuwiki (programming related and not). maybe there are some cool RSS feeds that await you :)
 
-pls don't spam requests to this page
+http:// 34. 173. 93. 146
+(without spaces)
+
+pls gib me $12 to get a domain
 
 
 
