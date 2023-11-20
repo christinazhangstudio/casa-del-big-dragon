@@ -35,6 +35,8 @@ apt-get install -y git nginx
 
 apt-get install -y git php7.4 php7.4-fpm
 
+apt-get install php7.4-xml
+
 # Disable the default NGINX configuration
 rm /etc/nginx/sites-enabled/nginx.conf
 
