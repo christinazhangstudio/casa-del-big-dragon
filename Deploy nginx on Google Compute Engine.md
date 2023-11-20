@@ -114,6 +114,8 @@ dokuwiki may complain about inaccessible /opt/www/data/*. can give ownership to 
 sudo chown -R www-data:www-data /opt/www
 ```
 
+go to ip/print.php for phpinfo().
+
 ![image](https://github.com/christinazhangstudio/casa-del-big-dragon/assets/57076552/472c4a88-f336-46b1-b21a-eade5943240e)
 
 
