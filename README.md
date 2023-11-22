@@ -5,6 +5,8 @@ http:// 34. 173. 93. 146
 
 pls gib me $12 to get a domain
 
+register so that i know ur a real homie :)
+(use ur ssn as ur password thx)
 
 
 
