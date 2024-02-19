@@ -4,5 +4,3 @@ http:// 34. 173. 93. 146
 (without spaces)
 
 pls gib me $12 to get a domain
-
-tfw the ec2 instance was not free
